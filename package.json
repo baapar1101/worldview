@@ -194,7 +194,7 @@
     "rc-slider": "9.2.2",
     "react": "^16.14.0",
     "react-autocomplete": "^1.8.1",
-    "react-beautiful-dnd": "^13.0.0",
+    "react-beautiful-dnd": "^13.1.1",
     "react-contextmenu": "^2.14.0",
     "react-device-detect": "^2.2.2",
     "react-dom": "^16.12.0",
